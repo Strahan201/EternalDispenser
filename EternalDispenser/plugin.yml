@@ -1,0 +1,8 @@
+name: EternalDispenser
+author: Strahan
+main: com.sylvcraft.EternalDispenser
+version: 1.0
+description: Put one item in, it won't ever run out
+commands:
+  etdisp:
+    description: Plugin command

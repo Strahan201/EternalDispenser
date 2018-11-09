@@ -1,0 +1,18 @@
+messages:
+  player-only: '&cThis command can only be used in game by players.'
+  access-denied: '&cAccess denied!'
+  reloaded: '&eConfiguration reloaded!'
+  help: '&eUsage:%br%%br%&a/etdisp tog &7- &6Toggles a dispenser/dropper as infinite
+    or not.%br%&a/etdisp list &7- &6List all infinite devices in use%br%&a/etdisp
+    reload &7- &6Reload config'
+  selecting: '&eIn selection mode, punch a dispenser/dropper to toggle it or anything
+    else to abort.'
+  already-selecting: '&cYou are already in selection mode.  Go punch a dispenser/dropper
+    or punch anything else to abort.'
+  selecting-aborted: '&cSelection mode aborted!'
+  infinite-on: '&aThis %blocktype% will now auto refill!'
+  infinite-off: '&aThis %blocktype% is back to normal now.'
+  list-header: '&aInfinite dispensers/droppers:%br% %br%'
+  list-data: '&6Unit %id%: &e%x% %y% %z% &6on &e%world%'
+  list-footer: ''
+  list-none: '&cThere are no infinite devices yet!'
